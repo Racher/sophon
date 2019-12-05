@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/flpc/v16
+/Debug
+/flpc.vcxproj.user
+/flpc.vcxproj.filters
+/Release
+/x64/Debug
+/x64/Release
+/.vs
+/graphics
+/simdata
+latex/biber.exe
+latex/paper.aux
+latex/paper.bbl
+latex/paper.bcf
+latex/paper.blg
+latex/paper.log
+latex/paper.out
+latex/paper.pdf
+latex/paper.run.xml
+latex/paper.synctex.gz
+/pd/x64/Release
