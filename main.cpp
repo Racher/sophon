@@ -282,6 +282,13 @@ void O2(Point* data, double rand) {
 	data[3].z = 1;
 }
 
+void O3(Point* data, double rand) {
+	data[1].z = 0.2 * data[0].x;
+	data[2].z = 0.1 * data[1].x;
+	data[3].z = 0.05 * data[2].x;
+	data[4].z = 1;
+}
+
 void O4(Point* data, double rand) {
 	data[1].z = 0.2 * data[0].x;
 	data[2].z = 0.1 * data[1].x;
@@ -375,6 +382,7 @@ int main() {
 	
 	Sim<O1, 1>("1st order", 2, {}, 0.75);
 	Sim<O2, 2>("2nd order", 24, {}, 1);
+	Sim<O3, 3>("3rd order", 30, {}, 1);
 	Sim<O4, 4>("4th order", 60, {}, 1);
 	Sim<O4z, 4>("4th order zero mids", 60, {}, 1);
 	Sim<DC, 2>("DC", 100, {}, 0.75, 2048);
