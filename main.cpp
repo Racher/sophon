@@ -182,6 +182,8 @@ struct Sim
 					planData.push_back(data[s + order + 1].x);
 					planData.push_back(y);
 					planData.push_back(data[s + i].x);
+					planData.push_back(data[s].a * pieces);
+					planData.push_back(data[s].z);
 				}
 	}
 
@@ -231,7 +233,7 @@ struct Sim
 			SetBack<order>(&*(data.end() - size));
 			Predict<size, pieces, order>(data.data());
 		}
-		planData[2] = (double)(planData.size() - 3) / planData[0] / planData[1] / 3;
+		planData[2] = (double)(planData.size() - 3) / planData[0] / planData[1] / 5;
 
 		const double simDuration = (data.end() - size + order + 1)->x * 1.5;
 		const double dt = simDuration / iters / stepDiv;
@@ -275,13 +277,13 @@ void O1(Point* data, double rand) {
 }
 
 void O2(Point* data, double rand) {
-	data[1].z = 0.2 * (data[0].x - data[1].x * 2 / 3);
-	data[2].z = 0.1 * data[1].x;
+	data[1].z = 0.1 * ((2 + std::sin(data[3].x)) * data[0].x + data[2].x * data[2].x);
+	data[2].z = 0.1 * (data[1].x * data[1].x);
 	data[3].z = 1;
 }
 
 void O4(Point* data, double rand) {
-	data[1].z = 0.2 * (data[0].x - data[1].x * 2 / 3);
+	data[1].z = 0.2 * data[0].x;
 	data[2].z = 0.1 * data[1].x;
 	data[3].z = 0.05 * data[2].x;
 	data[4].z = 0.025 * data[3].x;
@@ -289,7 +291,7 @@ void O4(Point* data, double rand) {
 }
 
 void O4z(Point* data, double rand) {
-	data[1].z = 0.06 * (data[0].x - data[1].x * 2 / 3);
+	data[1].z = 0.06 * data[0].x;
 	data[2].z = 0.15 * data[1].x;
 	data[3].z = 0.05 * data[2].x;
 	data[4].z = 0.036 * data[3].x;
@@ -370,7 +372,7 @@ int main() {
 	path = std::filesystem::current_path() / "simdata";
 	std::filesystem::remove_all(path);
 	std::filesystem::create_directories(path);
-
+	
 	Sim<O1, 1>("1st order", 2, {}, 0.75);
 	Sim<O2, 2>("2nd order", 24, {}, 1);
 	Sim<O4, 4>("4th order", 60, {}, 1);
