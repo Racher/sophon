@@ -83,7 +83,7 @@ void Predict(Point * data) {
 	}
 }
 
-template<size_t size, size_t pieces, size_t order, bool uBackFree>
+template<size_t size, size_t pieces, size_t order, size_t uBackFree>
 void Correct(Point * data) {
 	constexpr size_t segments = (I1 << order) - 1;
 	for (size_t r = 0; r < order; ++r) {
@@ -112,14 +112,9 @@ void Correct(Point * data) {
 		}
 	}
 	data[0].x = data[size].x;
-	if (uBackFree) {
-		size_t back = segments * pieces * size;
+	size_t back = segments * pieces * size;
+	if (uBackFree)
 		data[back].x = data[back - size].x;
-	}
-}
-
-template<size_t order>
-void SetBack(Point* back) {
-	for (size_t k = 1; k < order; ++k)
-		(back[k].x *= (1 - xMidConv)) -= (back[k + 1].z * (xMidConv / back[k + 1].a));
+	for (size_t k = uBackFree; k < order; ++k)
+		(data[back + k].x *= (1 - xMidConv)) -= (data[back + k + 1].z * (xMidConv / data[back + k + 1].a));
 }

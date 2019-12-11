@@ -6,19 +6,16 @@
 #include "solver.h"
 #include "models.h"
 
-using Model = void(Point*, double);
-
 std::vector<std::future<void>> sims;
 std::filesystem::path path;
 
-template<Model model, size_t order, size_t size = order + 2, bool uBackFree = true, size_t pieces = 8>
+template<void model(Point*, double), size_t order, size_t size = order + 2, bool uBackFree = true, size_t pieces = 8>
 struct Sim
 {
 	char filename[64];
 	const double initDuration;
 	const std::array<double, size> start;
 	const double target;
-	const size_t planIter;
 	std::vector<Point> data;
 	std::vector<double> planData;
 
@@ -56,11 +53,10 @@ struct Sim
 				}
 	}
 
-	Sim(const char* filename, double initDuration, std::array<double, size> start, double target, size_t planIter = 512)
+	Sim(const char* filename, double initDuration, std::array<double, size> start, double target)
 		: initDuration(initDuration)
 		, start(start)
 		, target(target)
-		, planIter(planIter)
 	{
 		strcpy_s(this->filename, filename);
 		strcat_s(this->filename, ".binary64");
@@ -74,6 +70,7 @@ struct Sim
 		constexpr auto simSaveDiv = iters / 50;
 		constexpr auto updateDiv = 100;
 		constexpr auto stepDiv = 100;
+		constexpr auto planIter = 2048;
 
 		data.resize(pointCount * size);
 		planData = { (double)pointCount, (double)(size - 1), 0 };
@@ -99,7 +96,6 @@ struct Sim
 				break;
 			Correct<size, pieces, order, uBackFree>(data.data());
 			ApplyModel();
-			SetBack<order>(&*(data.end() - size));
 			Predict<size, pieces, order>(data.data());
 		}
 		planData[2] = (double)(planData.size() - 3) / planData[0] / planData[1] / 5;
@@ -123,7 +119,6 @@ struct Sim
 
 			Correct<size, pieces, order, uBackFree>(data.data());
 			ApplyModel();
-			SetBack<order>(&*(data.end() - size));
 			Predict<size, pieces, order>(data.data());
 
 			for (size_t j = 0; j < stepDiv; ++j) {
@@ -145,16 +140,16 @@ int main() {
 	std::filesystem::remove_all(path);
 	std::filesystem::create_directories(path);
 	
-	Sim<O1, 1>("1st order", 2, {}, 0.75);
-	Sim<O2, 2>("2nd order", 24, {}, 1);
-	Sim<O3, 3>("3rd order", 30, {}, 1);
-	Sim<O4, 4>("4th order", 60, {}, 1);
-	Sim<O4z, 4>("4th order zero mids", 60, {}, 1);
-	Sim<DC, 2>("DC", 100, {}, 0.75, 2048);
-	Sim<DCpp, 2, 5> ("DCpp", 220, {}, 0.75, 2048);
-	Sim<Servo, 3>("Servo", 56, {}, 1, 2048);
-	Sim<Rocket, 4, 6, false>("Rocket", 30, {}, 1, 2048);
-	Sim<O4Compare, 4>("4th order compare", 30, {0,0,0,-0.35386002862997135 }, 0, 2048);
+	Sim<O1, 1>("O1", 2, {}, 0.75);
+	Sim<O2, 2>("O2", 24, {}, 1);
+	Sim<O3, 3>("O3", 30, {}, 1);
+	Sim<O4, 4>("O4", 60, {}, 1);
+	Sim<O4z, 4>("O4z", 60, {}, 1);
+	Sim<O4c, 4>("O4c", 30, {0,0,0,-0.35386002862997135 }, 0);
+	Sim<DC, 2>("DC", 100, {}, 0.75);
+	Sim<DCpp, 2, 5> ("DCpp", 220, {}, 0.75);
+	Sim<Servo, 3>("Servo", 56, {}, 1);
+	Sim<Rocket, 4, 6, false>("Rocket", 30, {}, 1);
 
 	for (auto& sim : sims)
 		sim.get();
