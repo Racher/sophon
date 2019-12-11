@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   1914902,      37269]
-NotebookOptionsPosition[   1907883,      37149]
-NotebookOutlinePosition[   1908263,      37165]
-CellTagsIndexPosition[   1908220,      37162]
+NotebookDataLength[   1917639,      37304]
+NotebookOptionsPosition[   1910474,      37179]
+NotebookOutlinePosition[   1911000,      37200]
+CellTagsIndexPosition[   1910957,      37197]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -12697,7 +12697,10 @@ Cell[BoxData[{
          "\[IndentingNewLine]", "]"}]}], ";", "\[IndentingNewLine]", 
       RowBox[{"savePdf", "[", 
        RowBox[{"label", ",", "g"}], "]"}], ";", "\[IndentingNewLine]", 
-      "g"}]}], "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+      RowBox[{"Show", "[", 
+       RowBox[{"g", ",", 
+        RowBox[{"ImageSize", "\[Rule]", "Small"}]}], "]"}]}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{"{", 
   RowBox[{
    RowBox[{"createPlanFormation", "[", 
@@ -12721,9 +12724,9 @@ Cell[BoxData[{
    3.7850477524335766`*^9, 3.785047827817164*^9}, {3.7850478688535223`*^9, 
    3.78504787049862*^9}, {3.785047910695423*^9, 3.7850479118923864`*^9}, {
    3.785047943672249*^9, 3.7850479782555537`*^9}, {3.7850485635217943`*^9, 
-   3.7850485723315086`*^9}},
+   3.7850485723315086`*^9}, {3.7850612863600626`*^9, 3.7850613254244313`*^9}},
  CellLabel->
-  "In[947]:=",ExpressionUUID->"e5105bfe-d69a-4d9e-a222-bc2f422c4ca1"],
+  "In[1079]:=",ExpressionUUID->"e5105bfe-d69a-4d9e-a222-bc2f422c4ca1"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -12758,270 +12761,271 @@ Hf4+s4i6BVX/HC4+4cHsPXqGD+wftSyZv0jyLVw8+KD4jQlbHtkrgs35CBc/
 Zg8TFz7H0P0n9og9RPwaXPzgh5JChf2X7C2Fzxa+nfEALt7RwGeZ/ekmVP0z
 uPjCmriXBgwP7DkVVu/tXvkaLv5QsubXje5HUHM+wMUjvpTdObv+iX3utCMs
 orGf4eKPdF5KT6h5BjX/G1wc5i8A0glMQg==
-          "]]}}}, BoxRatios -> {60, 60, 11}, Axes -> True, 
-      Ticks -> {Automatic, {{0., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {1., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {3., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {5., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {7., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {9., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {11., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {13., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {15., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {17., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {19., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {21., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {23., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {25., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {27., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {29., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {31., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {33., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {35., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {37., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {39., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {41., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {43., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {45., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {47., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {49., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {51., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {53., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {55., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {57., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {59., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {61., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {63., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {65., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {67., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {69., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {71., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {73., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {75., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {77., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {79., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {81., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {83., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {85., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {87., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {89., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {91., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {93., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {95., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {97., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {99., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}}, {{-1, 
-          FormBox[
-           RowBox[{"-", "1"}], TraditionalForm]}, {0, 
-          FormBox["0", TraditionalForm]}, {1, 
-          FormBox["1", TraditionalForm]}}}, AxesLabel -> {
-        FormBox["\"time\"", TraditionalForm], 
-        FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
-      AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
-      PlotRange -> {Automatic, Automatic, {-0.2, 1.2}}],FormBox[
+          "]]}}}, {
+      ImageSize -> Small, BoxRatios -> {60, 60, 11}, Axes -> True, 
+       Ticks -> {Automatic, {{0., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {1., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {3., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {5., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {7., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {9., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {11., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {13., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {15., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {17., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {19., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {21., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {23., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {25., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {27., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {29., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {31., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {33., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {35., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {37., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {39., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {41., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {43., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {45., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {47., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {49., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {51., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {53., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {55., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {57., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {59., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {61., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {63., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {65., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {67., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {69., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {71., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {73., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {75., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {77., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {79., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {81., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {83., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {85., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {87., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {89., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {91., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {93., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {95., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {97., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {99., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}}, {{-1, 
+           FormBox[
+            RowBox[{"-", "1"}], TraditionalForm]}, {0, 
+           FormBox["0", TraditionalForm]}, {1, 
+           FormBox["1", TraditionalForm]}}}, AxesLabel -> {
+         FormBox["\"time\"", TraditionalForm], 
+         FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
+       AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
+       PlotRange -> {Automatic, Automatic, {-0.2, 1.2}}}],FormBox[
       FormBox[
        TemplateBox[{
          StyleBox["\"u\"", 
@@ -13170,7 +13174,6 @@ orGf4eKPdF5KT6h5BjX/G1wc5i8A0glMQg==
                     AbsoluteCurrentValue[Magnification]}]], 
                     StyleBox[
                     RowBox[{"RGBColor", "[", 
-                    
                     RowBox[{
                     "0.886243`", ",", "0.527215`", ",", "0.0910023`"}], "]"}],
                      NumberMarks -> False]], Appearance -> None, 
@@ -13334,270 +13337,271 @@ ga7M4/cVTEX018xdu1sGeyBG3j9PwU4ZvfrUZSGHhfr+m8UZcndXQU/fFDSg
 s2sAGAyxdVNiqugh01ey19gOAXVMxz7psTp6vBrJI3nh/9Jg7M5zeqe10Bul
 Yx0KnTiQrxv4U4OmDnqTrUz4k5kx+FdjdLd/10b0lu9Sm+LucOFWobOwQJ0+
 eswzYwHLbi5EX2QrNasYoPcnXso2n+RCiMvpLTfOGaLz5nH4GxFafI4=
-          "]]}}}, BoxRatios -> {60, 60, 11}, Axes -> True, 
-      Ticks -> {Automatic, {{0., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {1., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {3., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {5., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {7., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {9., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {11., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {13., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {15., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {17., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {19., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {21., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {23., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {25., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {27., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {29., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {31., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {33., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {35., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {37., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {39., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {41., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {43., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {45., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {47., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {49., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {51., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {53., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {55., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {57., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {59., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {61., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {63., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {65., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {67., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {69., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {71., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {73., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {75., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {77., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {79., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {81., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {83., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {85., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {87., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {89., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {91., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {93., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {95., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {97., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {99., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}}, {{-1, 
-          FormBox[
-           RowBox[{"-", "1"}], TraditionalForm]}, {0, 
-          FormBox["0", TraditionalForm]}, {1, 
-          FormBox["1", TraditionalForm]}}}, AxesLabel -> {
-        FormBox["\"time\"", TraditionalForm], 
-        FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
-      AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
-      PlotRange -> {Automatic, Automatic, {-1.2, 1.2}}],FormBox[
+          "]]}}}, {
+      ImageSize -> Small, BoxRatios -> {60, 60, 11}, Axes -> True, 
+       Ticks -> {Automatic, {{0., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {1., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {3., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {5., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {7., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {9., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {11., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {13., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {15., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {17., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {19., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {21., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {23., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {25., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {27., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {29., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {31., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {33., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {35., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {37., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {39., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {41., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {43., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {45., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {47., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {49., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {51., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {53., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {55., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {57., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {59., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {61., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {63., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {65., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {67., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {69., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {71., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {73., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {75., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {77., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {79., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {81., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {83., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {85., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {87., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {89., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {91., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {93., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {95., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {97., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {99., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}}, {{-1, 
+           FormBox[
+            RowBox[{"-", "1"}], TraditionalForm]}, {0, 
+           FormBox["0", TraditionalForm]}, {1, 
+           FormBox["1", TraditionalForm]}}}, AxesLabel -> {
+         FormBox["\"time\"", TraditionalForm], 
+         FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
+       AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
+       PlotRange -> {Automatic, Automatic, {-1.2, 1.2}}}],FormBox[
       FormBox[
        TemplateBox[{
          StyleBox["\"u\"", 
@@ -13767,6 +13771,7 @@ eswzYwHLbi5EX2QrNasYoPcnXso2n+RCiMvpLTfOGaLz5nH4GxFafI4=
                     AbsoluteCurrentValue[Magnification]}]], 
                     StyleBox[
                     RowBox[{"RGBColor", "[", 
+                    
                     RowBox[{
                     "0.886243`", ",", "0.527215`", ",", "0.0910023`"}], "]"}],
                      NumberMarks -> False]], Appearance -> None, 
@@ -14602,270 +14607,271 @@ NH37FBnS1sxzT0lhb7ifIag7S4bAmKVK9yPYwTPPLnSeDPbbV3vTXMC+zCPD
 27ZIBrK3hWJCLHZ7G+l9hb/I4FGdS95bgV0vcs4geSXf/ubjSB2Zwf7VQq20
 eZkM1x0dTt/aZIjcqv2U45U/ZGB5VyIoqY09qF6kvH7Fw5j4O6tcsGuWpi/N
 rvjG4+4PnGOxq3x5OrK04nHU9Rn73/0M/D8ZgVg5
-          "]]}}}, BoxRatios -> {60, 60, 11}, Axes -> True, 
-      Ticks -> {Automatic, {{0., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {1., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {3., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {5., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {7., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {9., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {11., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {13., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {15., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {17., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {19., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {21., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {23., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {25., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {27., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {29., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {31., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {33., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {35., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {37., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {39., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {41., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {43., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {45., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {47., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {49., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {51., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {53., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {55., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {57., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {59., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {61., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {63., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {65., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {67., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {69., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {71., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {73., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {75., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {77., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {79., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {81., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {83., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {85., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {87., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {89., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {91., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {93., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {95., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {97., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {99., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}}, {{-1, 
-          FormBox[
-           RowBox[{"-", "1"}], TraditionalForm]}, {0, 
-          FormBox["0", TraditionalForm]}, {1, 
-          FormBox["1", TraditionalForm]}}}, AxesLabel -> {
-        FormBox["\"time\"", TraditionalForm], 
-        FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
-      AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
-      PlotRange -> {Automatic, Automatic, {-1.2, 1.2}}],FormBox[
+          "]]}}}, {
+      ImageSize -> Small, BoxRatios -> {60, 60, 11}, Axes -> True, 
+       Ticks -> {Automatic, {{0., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {1., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {3., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {5., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {7., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {9., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {11., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {13., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {15., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {17., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {19., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {21., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {23., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {25., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {27., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {29., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {31., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {33., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {35., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {37., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {39., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {41., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {43., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {45., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {47., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {49., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {51., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {53., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {55., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {57., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {59., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {61., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {63., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {65., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {67., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {69., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {71., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {73., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {75., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {77., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {79., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {81., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {83., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {85., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {87., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {89., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {91., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {93., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {95., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {97., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {99., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}}, {{-1, 
+           FormBox[
+            RowBox[{"-", "1"}], TraditionalForm]}, {0, 
+           FormBox["0", TraditionalForm]}, {1, 
+           FormBox["1", TraditionalForm]}}}, AxesLabel -> {
+         FormBox["\"time\"", TraditionalForm], 
+         FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
+       AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
+       PlotRange -> {Automatic, Automatic, {-1.2, 1.2}}}],FormBox[
       FormBox[
        TemplateBox[{
          StyleBox["\"u\"", 
@@ -15917,270 +15923,271 @@ w+lAgeRQk5dhqUbI11oo23yKosDtAP1rbG7GyCVSGYbOlf77fQXTGh2DNSbI
 xx7q7JHuoEDg5Xa6gDTsy/UYfrLN5WrfS3VtezebIpdsbIuQ+kGB3OJtyr/O
 YifmxP3UmKLAD+ZHd8NLsasX2tbkzuVkOf1F32U5zZBPicnmp89SwOXqkZ1V
 h7Ab3bpmOjnnCbT9E/v8eQT+Dym2+AU=
-          "]]}}}, BoxRatios -> {60, 60, 11}, Axes -> True, 
-      Ticks -> {Automatic, {{0., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {1., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {3., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {5., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {7., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {9., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {11., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {13., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {15., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {17., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {19., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {21., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {23., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {25., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {27., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {29., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {31., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {33., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {35., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {37., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {39., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {41., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {43., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {45., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {47., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {49., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {51., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {53., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {55., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {57., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {59., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {61., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {63., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {65., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {67., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {69., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {71., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {73., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {75., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {77., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {79., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {81., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {83., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {85., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {87., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {89., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {91., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {93., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {95., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {97., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}, {99., 
-          FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
-          FormBox[
-           TagBox[
-            SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
-          0.01, 0}, {}}}, {{-1, 
-          FormBox[
-           RowBox[{"-", "1"}], TraditionalForm]}, {0, 
-          FormBox["0", TraditionalForm]}, {1, 
-          FormBox["1", TraditionalForm]}}}, AxesLabel -> {
-        FormBox["\"time\"", TraditionalForm], 
-        FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
-      AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
-      PlotRange -> {Automatic, Automatic, {-1.2, 1.2}}],FormBox[
+          "]]}}}, {
+      ImageSize -> Small, BoxRatios -> {60, 60, 11}, Axes -> True, 
+       Ticks -> {Automatic, {{0., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "0"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {1., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {2., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "2"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {3., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {4., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "4"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {5., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {6., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "6"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {7., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {8., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "8"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {9., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {10., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "10"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {11., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {12., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "12"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {13., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {14., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "14"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {15., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {16., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "16"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {17., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {18., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "18"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {19., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {20., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "20"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {21., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {22., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "22"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {23., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {24., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "24"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {25., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {26., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "26"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {27., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {28., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "28"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {29., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {30., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "30"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {31., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {32., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "32"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {33., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {34., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "34"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {35., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {36., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "36"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {37., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {38., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "38"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {39., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {40., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "40"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {41., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {42., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "42"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {43., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {44., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "44"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {45., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {46., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "46"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {47., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {48., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "48"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {49., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {50., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "50"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {51., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {52., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "52"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {53., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {54., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "54"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {55., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {56., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "56"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {57., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {58., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "58"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {59., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {60., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "60"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {61., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {62., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "62"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {63., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {64., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "64"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {65., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {66., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "66"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {67., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {68., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "68"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {69., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {70., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "70"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {71., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {72., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "72"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {73., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {74., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "74"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {75., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {76., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "76"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {77., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {78., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "78"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {79., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {80., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "80"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {81., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {82., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "82"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {83., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {84., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "84"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {85., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {86., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "86"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {87., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {88., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "88"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {89., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {90., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "90"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {91., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {92., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "92"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {93., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {94., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "94"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {95., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {96., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "96"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {97., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {98., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "98"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}, {99., 
+           FormBox["\"\"", TraditionalForm], {0.01, 0}, {}}, {100., 
+           FormBox[
+            TagBox[
+             SuperscriptBox["2", "100"], DisplayForm], TraditionalForm], {
+           0.01, 0}, {}}}, {{-1, 
+           FormBox[
+            RowBox[{"-", "1"}], TraditionalForm]}, {0, 
+           FormBox["0", TraditionalForm]}, {1, 
+           FormBox["1", TraditionalForm]}}}, AxesLabel -> {
+         FormBox["\"time\"", TraditionalForm], 
+         FormBox["\"iteration\"", TraditionalForm]}, ImageSize -> Medium, 
+       AxesEdge -> {{-1, -1}, {-1, 1}, {-1, -1}}, 
+       PlotRange -> {Automatic, Automatic, {-1.2, 1.2}}}],FormBox[
       FormBox[
        TemplateBox[{
          StyleBox["\"u\"", 
@@ -16576,9 +16583,10 @@ h7Ab3bpmOjnnCbT9E/v8eQT+Dym2+AU=
    3.785047770940363*^9, 3.785047833767632*^9}, {3.785047906409828*^9, 
    3.7850479176760225`*^9}, {3.785047971509482*^9, 3.7850479840026217`*^9}, 
    3.785048061915637*^9, 3.785048142253417*^9, 3.785048199359377*^9, 
-   3.785048344861241*^9, 3.7850489445173736`*^9, 3.785050617615709*^9},
+   3.785048344861241*^9, 3.7850489445173736`*^9, 3.785050617615709*^9, 
+   3.7850613309745927`*^9},
  CellLabel->
-  "Out[948]=",ExpressionUUID->"f6674cef-96d5-4da6-b34d-4367e4667cd6"]
+  "Out[1080]=",ExpressionUUID->"cb29622a-7f47-4411-ab59-6dac9573b2c9"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -16597,38 +16605,44 @@ Cell[BoxData[{
      "\"\<u\>\"", ",", "\"\<T\>\"", ",", 
       "\"\<\!\(\*SubscriptBox[\(c\), \(0\)]\)\>\""}], "}"}]}]}], 
   ";"}], "\[IndentingNewLine]", 
- RowBox[{"g", "=", 
-  RowBox[{"ListLinePlot", "[", 
-   RowBox[{
+ RowBox[{
+  RowBox[{"g", "=", 
+   RowBox[{"ListLinePlot", "[", 
     RowBox[{
      RowBox[{
-      RowBox[{"data", "[", 
-       RowBox[{"[", 
-        RowBox[{"1", ",", "1", ",", 
-         RowBox[{"1", ";;", "9"}], ",", "1", ",", 
-         RowBox[{"{", 
-          RowBox[{"2", ",", "#"}], "}"}]}], "]"}], "]"}], "&"}], "/@", 
-     RowBox[{"{", 
-      RowBox[{"3", ",", "4", ",", "5"}], "}"}]}], ",", 
-    RowBox[{"PlotRange", "\[Rule]", "All"}], ",", 
-    RowBox[{"Ticks", "\[Rule]", 
-     RowBox[{"{", 
       RowBox[{
+       RowBox[{"data", "[", 
+        RowBox[{"[", 
+         RowBox[{"1", ",", "1", ",", 
+          RowBox[{"1", ";;", "9"}], ",", "1", ",", 
+          RowBox[{"{", 
+           RowBox[{"2", ",", "#"}], "}"}]}], "]"}], "]"}], "&"}], "/@", 
+      RowBox[{"{", 
+       RowBox[{"3", ",", "4", ",", "5"}], "}"}]}], ",", 
+     RowBox[{"PlotRange", "\[Rule]", "All"}], ",", 
+     RowBox[{"Ticks", "\[Rule]", 
+      RowBox[{"{", 
        RowBox[{
         RowBox[{
-         RowBox[{"{", 
-          RowBox[{"#", ",", 
-           SuperscriptBox["2", 
-            RowBox[{"ToString", "[", "#", "]"}]]}], "}"}], "&"}], "/@", 
-        RowBox[{"Range", "[", "10", "]"}]}], ",", "Automatic"}], "}"}]}], ",", 
-    RowBox[{"PlotLegends", "\[Rule]", "leg"}], ",", 
-    RowBox[{"AxesLabel", "\[Rule]", 
-     RowBox[{"{", "\"\<iteration\>\"", "}"}]}], ",", 
-    RowBox[{"PlotStyle", "\[Rule]", "colors"}]}], 
-   "]"}]}], "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{"#", ",", 
+            SuperscriptBox["2", 
+             RowBox[{"ToString", "[", "#", "]"}]]}], "}"}], "&"}], "/@", 
+         RowBox[{"Range", "[", "10", "]"}]}], ",", "Automatic"}], "}"}]}], 
+     ",", 
+     RowBox[{"PlotLegends", "\[Rule]", "leg"}], ",", 
+     RowBox[{"AxesLabel", "\[Rule]", 
+      RowBox[{"{", "\"\<iteration\>\"", "}"}]}], ",", 
+     RowBox[{"PlotStyle", "\[Rule]", "colors"}]}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"savePdf", "[", 
-   RowBox[{"\"\<1st order mdc\>\"", ",", "g"}], "]"}], ";"}]}], "Input",
+   RowBox[{"\"\<1st order mdc\>\"", ",", "g"}], "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Show", "[", 
+  RowBox[{"g", ",", 
+   RowBox[{"ImageSize", "\[Rule]", "Small"}]}], "]"}]}], "Input",
  CellChangeTimes->{{3.78452844292412*^9, 3.7845284850264373`*^9}, {
   3.7845288574119015`*^9, 3.7845289046060934`*^9}, {3.784528975473404*^9, 
   3.7845290240054646`*^9}, {3.7845291053234158`*^9, 3.784529312977005*^9}, {
@@ -16637,9 +16651,9 @@ Cell[BoxData[{
   3.7845299337060757`*^9, 3.7845299841066847`*^9}, {3.784531271565778*^9, 
   3.7845312754853573`*^9}, {3.784787304647064*^9, 3.784787345948873*^9}, {
   3.785048268276986*^9, 3.785048268850033*^9}, {3.785050074738*^9, 
-  3.785050076388726*^9}},
+  3.785050076388726*^9}, {3.7850613521572886`*^9, 3.7850613572589254`*^9}},
  CellLabel->
-  "In[949]:=",ExpressionUUID->"6661e8be-5b8a-4c17-9f31-af8343b22168"],
+  "In[1081]:=",ExpressionUUID->"6661e8be-5b8a-4c17-9f31-af8343b22168"],
 
 Cell[BoxData[
  TemplateBox[{GraphicsBox[{{}, {{{}, {}, {
@@ -16735,9 +16749,9 @@ Cell[BoxData[
          RGBColor[
          0.613966, 0.37652, 
           0.585084]]}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-    DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-     NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-     AxesLabel -> {
+    ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+     Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+     Axes -> {True, True}, AxesLabel -> {
        FormBox["\"iteration\"", TraditionalForm], None}, AxesOrigin -> {0, 0},
       DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}}, 
      FrameLabel -> {{None, None}, {None, None}}, 
@@ -17076,9 +17090,9 @@ Cell[BoxData[
    3.7850467224874353`*^9, 3.78504802681334*^9, 3.785048062208845*^9, 
    3.7850481425122786`*^9, 3.7850481996065707`*^9, 3.7850482694102182`*^9, 
    3.785048345077118*^9, 3.7850489453534594`*^9, 3.7850500769025936`*^9, 
-   3.7850506178395815`*^9},
+   3.7850506178395815`*^9, 3.785061357992405*^9},
  CellLabel->
-  "Out[951]=",ExpressionUUID->"d2ec06fb-678a-4707-90bb-e92fe845398f"]
+  "Out[1085]=",ExpressionUUID->"ce3780b7-b00d-4c6d-bab8-f46f54d582bf"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -18803,7 +18817,10 @@ Cell[BoxData[{
       "\[IndentingNewLine]", 
       RowBox[{"savePdf", "[", 
        RowBox[{"label", ",", "p"}], "]"}], ";", "\[IndentingNewLine]", 
-      "p"}]}], "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+      RowBox[{"Show", "[", 
+       RowBox[{"p", ",", 
+        RowBox[{"ImageSize", "\[Rule]", "Small"}]}], "]"}]}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{"{", 
   RowBox[{
    RowBox[{"createPlanLast", "[", "\"\<O1\>\"", "]"}], ",", 
@@ -18821,9 +18838,10 @@ Cell[BoxData[{
    RowBox[{"createPlanLast", "[", "\"\<Rocket\>\"", "]"}]}], "}"}]}], "Input",
  CellChangeTimes->{{3.7846156224537344`*^9, 3.784615626323894*^9}, {
   3.7846502412129993`*^9, 3.7846502440521793`*^9}, {3.784788694837728*^9, 
-  3.7847887090452566`*^9}, {3.785048593728422*^9, 3.785048598598237*^9}},
+  3.7847887090452566`*^9}, {3.785048593728422*^9, 3.785048598598237*^9}, {
+  3.7850613673154473`*^9, 3.78506137342669*^9}},
  CellLabel->
-  "In[968]:=",ExpressionUUID->"a489dc02-b8b5-4588-90eb-468d387beba6"],
+  "In[1086]:=",ExpressionUUID->"a489dc02-b8b5-4588-90eb-468d387beba6"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -18938,9 +18956,9 @@ Cell[BoxData[
            AbsoluteThickness[1.6], 
            RGBColor[
            0.886243, 0.527215, 0.0910023]]}, {}, {}, {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -19411,9 +19429,9 @@ sIM=
            RGBColor[
            0.613966, 0.37652, 
             0.585084]]}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -20102,9 +20120,9 @@ WZ9hpKCezgN2rr7aeMRCwc32KrYhDNH/8/ye3SPUUh+IpHI45+gUBclf72yR
            0.521981, 0.66, 
             0.0942065]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -20780,9 +20798,9 @@ RQ==
            RGBColor[
            0.613966, 0.37652, 
             0.585084]]}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -21418,9 +21436,9 @@ k57ZXzKf45vzK9vhRuy5lUGdz+yfdxr36vHnOJy0X8HoUffMHgDpzb3H
            0.521981, 0.66, 
             0.0942065]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -22209,9 +22227,9 @@ HA7MfZMq//e9/eKdgR+f8BU6ZPq/1mj//95+Wez9H63RhQ6Q3PfBHgBcqbpd
            0.521981, 0.66, 
             0.0942065]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -23194,9 +23212,9 @@ m3Hf8Krrv6ZpbCBWWDya0NjZLFMy7u8+438B8BFCxw==
            0.820916, 0.341417, 
             0.22514]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -23807,9 +23825,10 @@ m3Hf8Krrv6ZpbCBWWDya0NjZLFMy7u8+438B8BFCxw==
    3.7846234162823973`*^9, 3.784650248071673*^9, 3.785045962745949*^9, 
    3.7850461715762987`*^9, 3.785046726565341*^9, 3.7850480668062153`*^9, 
    3.7850481467552295`*^9, 3.785048204033496*^9, 3.7850483491192074`*^9, 
-   3.7850486045029006`*^9, 3.785048949671341*^9, 3.7850506218616543`*^9},
+   3.7850486045029006`*^9, 3.785048949671341*^9, 3.7850506218616543`*^9, 
+   3.785061377474032*^9},
  CellLabel->
-  "Out[969]=",ExpressionUUID->"8dc6feef-2059-4286-8905-c4d3c1270b46"]
+  "Out[1087]=",ExpressionUUID->"e51889c0-8ecc-4807-bf84-64e35cec494b"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -23863,7 +23882,10 @@ Cell[BoxData[{
       "\[IndentingNewLine]", 
       RowBox[{"savePdf", "[", 
        RowBox[{"label", ",", "p"}], "]"}], ";", "\[IndentingNewLine]", 
-      "p"}]}], "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+      RowBox[{"Show", "[", 
+       RowBox[{"p", ",", 
+        RowBox[{"ImageSize", "\[Rule]", "Small"}]}], "]"}]}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{"{", 
   RowBox[{
    RowBox[{"createSim2", "[", 
@@ -23883,9 +23905,9 @@ Cell[BoxData[{
    3.7844868425757785`*^9, 3.784486846641398*^9}, {3.7846501582356553`*^9, 
    3.7846501913079348`*^9}, {3.7847887362549286`*^9, 3.784788777728133*^9}, {
    3.7847888093414593`*^9, 3.784788836724105*^9}, {3.785048610995186*^9, 
-   3.7850486122337255`*^9}},
+   3.7850486122337255`*^9}, {3.785061383452935*^9, 3.785061389094783*^9}},
  CellLabel->
-  "In[970]:=",ExpressionUUID->"c93c7d5c-2d6c-4a87-8281-a63f4945e00a"],
+  "In[1088]:=",ExpressionUUID->"c93c7d5c-2d6c-4a87-8281-a63f4945e00a"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -24025,9 +24047,9 @@ BwFsXzs=
            RGBColor[
            0.613966, 0.37652, 
             0.585084]]}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -24530,9 +24552,9 @@ I+6iCf4BO2yWrA==
            0.521981, 0.66, 
             0.0942065]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -25104,9 +25126,9 @@ UFfP
            0.521981, 0.66, 
             0.0942065]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -25727,9 +25749,9 @@ tE5/O439D3w8Y1I=
            0.820916, 0.341417, 
             0.22514]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -26379,9 +26401,9 @@ MHVxi+ykiFMc3d62Tw7bJ6/rbcqvEg3IZz6scKehNCxA4vSsFJlm9JsKdDQo
            0.820916, 0.341417, 
             0.22514]]}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}}, \
 {{}, {}}}, {
-      DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-       NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-       AxesLabel -> {
+      ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+       Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+       Axes -> {True, True}, AxesLabel -> {
          FormBox["\"time\"", TraditionalForm], None}, AxesOrigin -> {0, 0}, 
        DisplayFunction :> Identity, Frame -> {{False, False}, {False, False}},
         FrameLabel -> {{None, None}, {None, None}}, 
@@ -26793,9 +26815,9 @@ MHVxi+ykiFMc3d62Tw7bJ6/rbcqvEg3IZz6scKehNCxA4vSsFJlm9JsKdDQo
    3.785045965306902*^9, 3.785046174046913*^9, 3.785046729212108*^9, 
    3.7850480695587244`*^9, 3.785048149511447*^9, 3.78504820662236*^9, 
    3.7850483516850605`*^9, 3.785048615335428*^9, 3.785048952324436*^9, 
-   3.78505062436324*^9},
+   3.78505062436324*^9, 3.7850613920525813`*^9},
  CellLabel->
-  "Out[971]=",ExpressionUUID->"50a3a440-6f0f-4f3f-9933-4199010757b3"]
+  "Out[1089]=",ExpressionUUID->"547c877a-bb8c-4c31-a9d3-31ca94f2563f"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -26842,7 +26864,10 @@ Cell[BoxData[{
          RowBox[{"PlotStyle", "\[Rule]", "colors"}]}], "]"}]}], ";", 
       "\[IndentingNewLine]", 
       RowBox[{"savePdf", "[", 
-       RowBox[{"fn", ",", "p"}], "]"}], ";", "\[IndentingNewLine]", "p"}]}], 
+       RowBox[{"fn", ",", "p"}], "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{"Show", "[", 
+       RowBox[{"p", ",", 
+        RowBox[{"ImageSize", "\[Rule]", "Small"}]}], "]"}]}]}], 
     "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{"createSimPlanN", "[", 
   RowBox[{"\"\<DC\>\"", ",", "33"}], "]"}]}], "Input",
@@ -26851,9 +26876,10 @@ Cell[BoxData[{
    3.783624394457958*^9}, {3.783624434080473*^9, 3.7836244512527575`*^9}, {
    3.7836244914888945`*^9, 3.7836245023641777`*^9}, {3.7836245450470767`*^9, 
    3.783624602020233*^9}, {3.783624637817709*^9, 3.783624680272911*^9}, 
-   3.784368326402433*^9, {3.784487748733943*^9, 3.7844877488403215`*^9}},
+   3.784368326402433*^9, {3.784487748733943*^9, 3.7844877488403215`*^9}, 
+   3.7850614005215464`*^9},
  CellLabel->
-  "In[972]:=",ExpressionUUID->"bcae38bd-0b9f-4c1b-a443-c060bf00ac0e"],
+  "In[1090]:=",ExpressionUUID->"bcae38bd-0b9f-4c1b-a443-c060bf00ac0e"],
 
 Cell[BoxData[
  TemplateBox[{GraphicsBox[{{}, {{{}, {}, {
@@ -27021,9 +27047,9 @@ wZ/n9pvruBg9OdIcFlodVZT9/9w+q2ffmgjFNAcGMHhhDwBrXcLL
          RGBColor[
          0.613966, 0.37652, 
           0.585084]]}, {}, {}, {}, {}, {}, {}, {}}}, {{}, {}}}, {
-    DisplayFunction -> Identity, DisplayFunction -> Identity, AspectRatio -> 
-     NCache[GoldenRatio^(-1), 0.6180339887498948], Axes -> {True, True}, 
-     AxesLabel -> {
+    ImageSize -> Small, DisplayFunction -> Identity, DisplayFunction -> 
+     Identity, AspectRatio -> NCache[GoldenRatio^(-1), 0.6180339887498948], 
+     Axes -> {True, True}, AxesLabel -> {
        FormBox["\"time\"", TraditionalForm], None}, 
      AxesOrigin -> {169.73379949641642`, 0}, DisplayFunction :> Identity, 
      Frame -> {{False, False}, {False, False}}, 
@@ -27420,9 +27446,9 @@ wZ/n9pvruBg9OdIcFlodVZT9/9w+q2ffmgjFNAcGMHhhDwBrXcLL
    3.784610842791524*^9, 3.7850459657346835`*^9, 3.785046174482664*^9, 
    3.7850467296538568`*^9, 3.785048070048092*^9, 3.785048150005684*^9, 
    3.785048207082659*^9, 3.7850483521113653`*^9, 3.7850486297821913`*^9, 
-   3.7850489527875814`*^9, 3.785050624868456*^9},
+   3.7850489527875814`*^9, 3.785050624868456*^9, 3.785061401832694*^9},
  CellLabel->
-  "Out[973]=",ExpressionUUID->"bd7ff84c-2fcd-4d71-b7a8-ff19417ae2a8"]
+  "Out[1091]=",ExpressionUUID->"5bd97f45-20fa-4058-b6e0-3018d3487524"]
 }, Open  ]],
 
 Cell[BoxData[""], "Input",
@@ -27521,12 +27547,13 @@ Cell[BoxData[{
    RowBox[{"{", 
     RowBox[{"u", ",", "x0", ",", "x1", ",", "x2", ",", "x3"}], "}"}], ",", 
    RowBox[{"{", 
-    RowBox[{"t", ",", "0", ",", "te"}], "}"}]}], "]"}]}], "Input",
+    RowBox[{"t", ",", "0", ",", "te"}], "}"}], ",", 
+   RowBox[{"ImageSize", "\[Rule]", "Small"}]}], "]"}]}], "Input",
  CellChangeTimes->{{3.7837002018866024`*^9, 3.783700262371059*^9}, {
   3.783700294267705*^9, 3.783700477749251*^9}, {3.783700509937129*^9, 
-  3.78370054650942*^9}},
+  3.78370054650942*^9}, {3.7850614123749537`*^9, 3.785061414606902*^9}},
  CellLabel->
-  "In[975]:=",ExpressionUUID->"ce768107-099f-4b3b-8221-920e77a6abc0"],
+  "In[1092]:=",ExpressionUUID->"ce768107-099f-4b3b-8221-920e77a6abc0"],
 
 Cell[BoxData["1.008925713629767`"], "Output",
  CellChangeTimes->{
@@ -27539,9 +27566,10 @@ Cell[BoxData["1.008925713629767`"], "Output",
    3.784525979897242*^9, 3.7845283415320463`*^9, 3.7846108429427967`*^9, 
    3.7850459659499226`*^9, 3.7850461746085916`*^9, 3.785046729788049*^9, 
    3.7850480701801863`*^9, 3.7850481501735888`*^9, 3.7850482072590237`*^9, 
-   3.7850483522442904`*^9, 3.785048952946491*^9, 3.785050625009375*^9},
+   3.7850483522442904`*^9, 3.785048952946491*^9, 3.785050625009375*^9, 
+   3.7850614149654236`*^9},
  CellLabel->
-  "Out[981]=",ExpressionUUID->"fbaa655c-f3b3-49b2-a5e2-2d90e17015b0"],
+  "Out[1098]=",ExpressionUUID->"fb73cc71-d507-4b84-bb8e-f0cfa36290ce"],
 
 Cell[BoxData[
  GraphicsBox[{{{{}, {}, 
@@ -27579,7 +27607,7 @@ YYTg37jGe43RFcHXU/7lMcMTwU9c4ZAm4ofgAwCemZMF
         6.4000779773081655`, -1.}, {6.544071608340245, -1.}, {
         6.678436000396101, -1.}, {6.753431492893318, -1.}, {
         6.828426985390534, -1.}}]},
-      Annotation[#, "Charting`Private`Tag$56505#1"]& ], 
+      Annotation[#, "Charting`Private`Tag$64833#1"]& ], 
      TagBox[
       {RGBColor[0.880722, 0.611041, 0.142051], AbsoluteThickness[1.6], 
        Opacity[1.], LineBox[CompressedData["
@@ -27666,7 +27694,7 @@ yTb86EEbQCR5+cPNAYM/gbEbtrVGG0CuKh5AxVd5P3AlDhMcSRtAM8gzHNoB
 cz9gmQBwgksbQCnGkvDdV2k/Tw3zzOhNG0BnAnxRD1hZPz6B5SlPUBtAUrge
 nnSweD6W3yR/
         "]]},
-      Annotation[#, "Charting`Private`Tag$56505#2"]& ], 
+      Annotation[#, "Charting`Private`Tag$64833#2"]& ], 
      TagBox[
       {RGBColor[0.560181, 0.691569, 0.194885], AbsoluteThickness[1.6], 
        Opacity[1.], LineBox[CompressedData["
@@ -27890,7 +27918,7 @@ D35e8tDpLfr5NhEVam9wkdyUMj9BT7yfWLaaAR/b1ZpItqGJ2PptSZ5AFZXF
 pEask3MqSLFZ+/Tm2/6h1siZa16qtAf0JpYTvV1y98ypLUx/vfVL2/p/XOAh
 fg==
         "]]},
-      Annotation[#, "Charting`Private`Tag$56505#3"]& ], 
+      Annotation[#, "Charting`Private`Tag$64833#3"]& ], 
      TagBox[
       {RGBColor[0.922526, 0.385626, 0.209179], AbsoluteThickness[1.6], 
        Opacity[1.], LineBox[CompressedData["
@@ -28080,7 +28108,7 @@ UwsZIDRlITSLKOZvXxjbJXTaU/4FIt3KgE6jCl1u3XWOOFenyr1hK3TtA+IU
 EaK3Rk7N4Wd/1SMvwjubFMJwFJq0QFgTNKmvHWP7ftoP1hLEuREDmtNP4+tf
 v0HAoA==
         "]]},
-      Annotation[#, "Charting`Private`Tag$56505#4"]& ], 
+      Annotation[#, "Charting`Private`Tag$64833#4"]& ], 
      TagBox[
       {RGBColor[0.528488, 0.470624, 0.701351], AbsoluteThickness[1.6], 
        Opacity[1.], LineBox[CompressedData["
@@ -28265,7 +28293,7 @@ Tai9tramyWvwIc4wbzX1tpqXv8Pm8EEYOiqgXmdSsrVbiw+2drJm1M8+WJvI
 G/Jh9+yna6mNjnVoWVrxQUd1wjrq/wPiOg99
         "]]},
       Annotation[#, 
-       "Charting`Private`Tag$56505#5"]& ], {}}, {{}, {}, {}, {}, {}, {}, {}, \
+       "Charting`Private`Tag$64833#5"]& ], {}}, {{}, {}, {}, {}, {}, {}, {}, \
 {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}}, \
 {{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, \
 {}, {}, {}, {}, {}, {}, {}}}, {}},
@@ -28283,6 +28311,7 @@ G/Jh9+yna6mNjnVoWVrxQUd1wjrq/wPiOg99
   GridLinesStyle->Directive[
     GrayLevel[0.5, 0.4]],
   ImagePadding->All,
+  ImageSize->Small,
   Method->{
    "DefaultBoundaryStyle" -> Automatic, 
     "DefaultGraphicsInteraction" -> {
@@ -28322,9 +28351,10 @@ G/Jh9+yna6mNjnVoWVrxQUd1wjrq/wPiOg99
    3.784525979897242*^9, 3.7845283415320463`*^9, 3.7846108429427967`*^9, 
    3.7850459659499226`*^9, 3.7850461746085916`*^9, 3.785046729788049*^9, 
    3.7850480701801863`*^9, 3.7850481501735888`*^9, 3.7850482072590237`*^9, 
-   3.7850483522442904`*^9, 3.785048952946491*^9, 3.785050625137453*^9},
+   3.7850483522442904`*^9, 3.785048952946491*^9, 3.785050625009375*^9, 
+   3.785061415091864*^9},
  CellLabel->
-  "Out[982]=",ExpressionUUID->"83236e8a-6567-44b4-aca9-f89def9769a2"]
+  "Out[1099]=",ExpressionUUID->"8926e972-609f-4755-a448-79af834d69b8"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -37148,10 +37178,15 @@ Cell[BoxData["0.8673882320622491`"], "Output",
 }, Open  ]]
 },
 WindowSize->{1920, 997},
-WindowMargins->{{Automatic, 1912}, {74, Automatic}},
+WindowMargins->{{Automatic, 1912}, {66, Automatic}},
+PrintingCopies->1,
+PrintingPageRange->{32000, 32000},
+PrintingOptions->{"Magnification"->1.,
+"PaperOrientation"->"Portrait",
+"PaperSize"->{612, 792}},
 Magnification:>1.3 Inherited,
 FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
-StyleDefinitions->"ReverseColor.nb"
+StyleDefinitions->"Default.nb"
 ]
 (* End of Notebook Content *)
 
@@ -37168,16 +37203,16 @@ Cell[CellGroupData[{
 Cell[580, 22, 10630, 272, 962, "Input",ExpressionUUID->"731ed9e4-990e-45dc-9e46-f93bab570535"],
 Cell[11213, 296, 523, 11, 29, "Message",ExpressionUUID->"d357e0e9-47dd-40f0-a34d-26bf144f081e"],
 Cell[11739, 309, 32956, 639, 156, "Output",ExpressionUUID->"65f76dcc-7927-4ac2-85b6-d14795605a8a"],
-Cell[44698, 950, 353275, 5821, 203, "Output",ExpressionUUID->"b7b78b9c-ef94-44ee-b1f1-fb160bfc6cb0"]
+Cell[44698, 950, 353275, 5821, 202, "Output",ExpressionUUID->"b7b78b9c-ef94-44ee-b1f1-fb160bfc6cb0"]
 }, Open  ]],
 Cell[397988, 6774, 179, 3, 37, "Input",ExpressionUUID->"7fe08b3d-59f1-434c-b56d-727650c5d10d"],
 Cell[CellGroupData[{
 Cell[398192, 6781, 8077, 193, 645, "Input",ExpressionUUID->"57d03996-227f-4548-93e8-872b2e559390"],
-Cell[406272, 6976, 89726, 1729, 159, "Output",ExpressionUUID->"6c9c4efd-4cb7-4712-b937-3f1d0237a644"]
+Cell[406272, 6976, 89726, 1729, 160, "Output",ExpressionUUID->"6c9c4efd-4cb7-4712-b937-3f1d0237a644"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[496035, 8710, 8902, 254, 630, "Input",ExpressionUUID->"715469fe-874c-404e-a0a9-4edbbec8ddaa"],
-Cell[504940, 8966, 22492, 438, 220, "Output",ExpressionUUID->"64cd2cd7-0f66-41e7-84c5-89bf4f2d55d1"]
+Cell[504940, 8966, 22492, 438, 222, "Output",ExpressionUUID->"64cd2cd7-0f66-41e7-84c5-89bf4f2d55d1"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[527469, 9409, 12044, 320, 585, "Input",ExpressionUUID->"d8f826a8-8e3f-4b46-8ea8-ec5d6b30756b"],
@@ -37193,83 +37228,83 @@ Cell[680956, 12578, 292, 7, 37, "Input",ExpressionUUID->"210d90b1-847b-410c-b756
 Cell[681251, 12587, 380, 7, 43, "Output",ExpressionUUID->"d00decb9-ab18-4653-90a9-bb910284e249"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[681668, 12599, 5624, 126, 688, "Input",ExpressionUUID->"e5105bfe-d69a-4d9e-a222-bc2f422c4ca1"],
-Cell[687295, 12727, 198831, 3853, 723, "Output",ExpressionUUID->"f6674cef-96d5-4da6-b34d-4367e4667cd6"]
+Cell[681668, 12599, 5783, 129, 688, "Input",ExpressionUUID->"e5105bfe-d69a-4d9e-a222-bc2f422c4ca1"],
+Cell[687454, 12730, 200028, 3858, 197, "Output",ExpressionUUID->"cb29622a-7f47-4411-ab59-6dac9573b2c9"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[886163, 16585, 2243, 56, 120, "Input",ExpressionUUID->"6661e8be-5b8a-4c17-9f31-af8343b22168"],
-Cell[888409, 16643, 20205, 437, 293, "Output",ExpressionUUID->"d2ec06fb-678a-4707-90bb-e92fe845398f"]
+Cell[887519, 16593, 2470, 62, 145, "Input",ExpressionUUID->"6661e8be-5b8a-4c17-9f31-af8343b22168"],
+Cell[889992, 16657, 20248, 437, 150, "Output",ExpressionUUID->"ce3780b7-b00d-4c6d-bab8-f46f54d582bf"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[908651, 17085, 6966, 193, 546, "Input",ExpressionUUID->"180d8c4f-1268-4c45-8204-fa0eb3fe5637"],
-Cell[915620, 17280, 67737, 1478, 149, "Output",ExpressionUUID->"ae5afce2-7398-4fa2-84b3-bebe114e414b"]
+Cell[910277, 17099, 6966, 193, 546, "Input",ExpressionUUID->"180d8c4f-1268-4c45-8204-fa0eb3fe5637"],
+Cell[917246, 17294, 67737, 1478, 148, "Output",ExpressionUUID->"ae5afce2-7398-4fa2-84b3-bebe114e414b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[983394, 18763, 2738, 62, 406, "Input",ExpressionUUID->"a489dc02-b8b5-4588-90eb-468d387beba6"],
-Cell[986135, 18827, 232048, 4984, 879, "Output",ExpressionUUID->"8dc6feef-2059-4286-8905-c4d3c1270b46"]
+Cell[985020, 18777, 2897, 66, 406, "Input",ExpressionUUID->"a489dc02-b8b5-4588-90eb-468d387beba6"],
+Cell[987920, 18845, 232215, 4985, 329, "Output",ExpressionUUID->"e51889c0-8ecc-4807-bf84-64e35cec494b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1218220, 23816, 3125, 71, 338, "Input",ExpressionUUID->"c93c7d5c-2d6c-4a87-8281-a63f4945e00a"],
-Cell[1221348, 23889, 139146, 2908, 580, "Output",ExpressionUUID->"50a3a440-6f0f-4f3f-9933-4199010757b3"]
+Cell[1220172, 23835, 3280, 74, 338, "Input",ExpressionUUID->"c93c7d5c-2d6c-4a87-8281-a63f4945e00a"],
+Cell[1223455, 23911, 139271, 2908, 175, "Output",ExpressionUUID->"547c877a-bb8c-4c31-a9d3-31ca94f2563f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1360531, 26802, 2488, 53, 263, "Input",ExpressionUUID->"bcae38bd-0b9f-4c1b-a443-c060bf00ac0e"],
-Cell[1363022, 26857, 25615, 567, 283, "Output",ExpressionUUID->"bd7ff84c-2fcd-4d71-b7a8-ff19417ae2a8"]
+Cell[1362763, 26824, 2627, 57, 263, "Input",ExpressionUUID->"bcae38bd-0b9f-4c1b-a443-c060bf00ac0e"],
+Cell[1365393, 26883, 25658, 567, 142, "Output",ExpressionUUID->"5bd97f45-20fa-4058-b6e0-3018d3487524"]
 }, Open  ]],
-Cell[1388652, 27427, 177, 3, 37, "Input",ExpressionUUID->"1fcfc908-71da-4961-a346-edf07e1721cf"],
+Cell[1391066, 27453, 177, 3, 37, "Input",ExpressionUUID->"1fcfc908-71da-4961-a346-edf07e1721cf"],
 Cell[CellGroupData[{
-Cell[1388854, 27434, 3166, 94, 304, "Input",ExpressionUUID->"ce768107-099f-4b3b-8221-920e77a6abc0"],
-Cell[1392023, 27530, 887, 13, 43, "Output",ExpressionUUID->"fbaa655c-f3b3-49b2-a5e2-2d90e17015b0"],
-Cell[1392913, 27545, 45142, 781, 301, "Output",ExpressionUUID->"83236e8a-6567-44b4-aca9-f89def9769a2"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1438092, 28331, 1089, 26, 88, "Input",ExpressionUUID->"992a2bfd-8211-4238-8559-66638fff23e9"],
-Cell[1439184, 28359, 33951, 564, 388, "Output",ExpressionUUID->"8d64e453-af73-49d9-b5d0-5e47e0f458eb"]
+Cell[1391268, 27460, 3267, 95, 304, "Input",ExpressionUUID->"ce768107-099f-4b3b-8221-920e77a6abc0"],
+Cell[1394538, 27557, 916, 14, 43, "Output",ExpressionUUID->"fb73cc71-d507-4b84-bb8e-f0cfa36290ce"],
+Cell[1395457, 27573, 45189, 783, 154, "Output",ExpressionUUID->"8926e972-609f-4755-a448-79af834d69b8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1473172, 28928, 3345, 93, 438, "Input",ExpressionUUID->"80cae738-5aa0-42ea-954f-c3213c1e0a61"],
-Cell[1476520, 29023, 22417, 423, 282, "Output",ExpressionUUID->"243f57f0-d3c0-42e9-bc51-899ff11dae62"]
+Cell[1440683, 28361, 1089, 26, 88, "Input",ExpressionUUID->"992a2bfd-8211-4238-8559-66638fff23e9"],
+Cell[1441775, 28389, 33951, 564, 388, "Output",ExpressionUUID->"8d64e453-af73-49d9-b5d0-5e47e0f458eb"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1498974, 29451, 3380, 93, 438, "Input",ExpressionUUID->"38bb8cad-3841-4e13-a589-6001ef427165"],
-Cell[1502357, 29546, 19431, 374, 282, "Output",ExpressionUUID->"56c8d36d-2c57-46aa-98ce-6e93dc4239e1"]
+Cell[1475763, 28958, 3345, 93, 438, "Input",ExpressionUUID->"80cae738-5aa0-42ea-954f-c3213c1e0a61"],
+Cell[1479111, 29053, 22417, 423, 280, "Output",ExpressionUUID->"243f57f0-d3c0-42e9-bc51-899ff11dae62"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1521825, 29925, 3863, 103, 463, "Input",ExpressionUUID->"9b697f93-bb6d-4fe8-a4bb-c532d4543cd7"],
-Cell[1525691, 30030, 51297, 913, 282, "Output",ExpressionUUID->"ab296476-240f-4eb0-b9e6-c0788511ec2b"]
+Cell[1501565, 29481, 3380, 93, 438, "Input",ExpressionUUID->"38bb8cad-3841-4e13-a589-6001ef427165"],
+Cell[1504948, 29576, 19431, 374, 280, "Output",ExpressionUUID->"56c8d36d-2c57-46aa-98ce-6e93dc4239e1"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1577025, 30948, 4057, 105, 463, "Input",ExpressionUUID->"6d5ab654-9255-49d9-8a0e-fbcf38af4efa"],
-Cell[1581085, 31055, 47908, 858, 282, "Output",ExpressionUUID->"a318e4b3-e391-4f7c-8756-c62d885dc119"]
+Cell[1524416, 29955, 3863, 103, 463, "Input",ExpressionUUID->"9b697f93-bb6d-4fe8-a4bb-c532d4543cd7"],
+Cell[1528282, 30060, 51297, 913, 280, "Output",ExpressionUUID->"ab296476-240f-4eb0-b9e6-c0788511ec2b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1629030, 31918, 5687, 148, 488, "Input",ExpressionUUID->"ab5dcd53-36c1-44ab-96fe-752734ae3406"],
-Cell[1634720, 32068, 66227, 1172, 282, "Output",ExpressionUUID->"70edf0d8-e33c-4fcf-9dcc-4c0ae319ca14"],
-Cell[1700950, 33242, 1133, 16, 43, "Output",ExpressionUUID->"2bf378d7-f509-4863-a24c-b9e3a3527436"]
+Cell[1579616, 30978, 4057, 105, 463, "Input",ExpressionUUID->"6d5ab654-9255-49d9-8a0e-fbcf38af4efa"],
+Cell[1583676, 31085, 47908, 858, 280, "Output",ExpressionUUID->"a318e4b3-e391-4f7c-8756-c62d885dc119"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1702120, 33263, 5999, 153, 488, "Input",ExpressionUUID->"96a317f1-fe3d-4411-b4b8-f1d85efe7aa8"],
-Cell[1708122, 33418, 63496, 1126, 287, "Output",ExpressionUUID->"8e582d0b-104e-484c-b053-77217086a554"],
-Cell[1771621, 34546, 1468, 20, 43, "Output",ExpressionUUID->"914e98ef-202e-4686-9487-447d8309cd9b"]
+Cell[1631621, 31948, 5687, 148, 488, "Input",ExpressionUUID->"ab5dcd53-36c1-44ab-96fe-752734ae3406"],
+Cell[1637311, 32098, 66227, 1172, 280, "Output",ExpressionUUID->"70edf0d8-e33c-4fcf-9dcc-4c0ae319ca14"],
+Cell[1703541, 33272, 1133, 16, 43, "Output",ExpressionUUID->"2bf378d7-f509-4863-a24c-b9e3a3527436"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1773126, 34571, 4106, 118, 424, "Input",ExpressionUUID->"993a5869-9e47-4dde-9dd7-2a4d764eeff3"],
-Cell[1777235, 34691, 59848, 1092, 303, "Output",ExpressionUUID->"8a7a4691-5b3b-4d67-9361-c07d2123a0c7"],
-Cell[1837086, 35785, 979, 14, 43, "Output",ExpressionUUID->"24e53828-a953-4bc6-9d13-76fabb19daa7"]
+Cell[1704711, 33293, 5999, 153, 488, "Input",ExpressionUUID->"96a317f1-fe3d-4411-b4b8-f1d85efe7aa8"],
+Cell[1710713, 33448, 63496, 1126, 285, "Output",ExpressionUUID->"8e582d0b-104e-484c-b053-77217086a554"],
+Cell[1774212, 34576, 1468, 20, 43, "Output",ExpressionUUID->"914e98ef-202e-4686-9487-447d8309cd9b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1838102, 35804, 4658, 131, 474, "Input",ExpressionUUID->"1c3dfe72-f4b7-4b46-bdea-90f451dc8c02"],
-Cell[1842763, 35937, 59699, 1089, 303, "Output",ExpressionUUID->"f5333479-6931-4502-b845-cd508941477a"],
-Cell[1902465, 37028, 918, 13, 43, "Output",ExpressionUUID->"9ad24993-5b7b-4465-802d-2a47042f46cb"],
-Cell[1903386, 37043, 918, 13, 43, "Output",ExpressionUUID->"1d5a99fd-9475-422b-a9f0-394bac95fdab"]
+Cell[1775717, 34601, 4106, 118, 424, "Input",ExpressionUUID->"993a5869-9e47-4dde-9dd7-2a4d764eeff3"],
+Cell[1779826, 34721, 59848, 1092, 302, "Output",ExpressionUUID->"8a7a4691-5b3b-4d67-9361-c07d2123a0c7"],
+Cell[1839677, 35815, 979, 14, 43, "Output",ExpressionUUID->"24e53828-a953-4bc6-9d13-76fabb19daa7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1904341, 37061, 1105, 29, 88, "Input",ExpressionUUID->"72854a93-67b7-43bb-8cef-6f73aa178bc6"],
-Cell[1905449, 37092, 785, 11, 43, "Output",ExpressionUUID->"3f3b05c3-b50c-4a1a-b49d-9ecf3f8ebba5"]
+Cell[1840693, 35834, 4658, 131, 474, "Input",ExpressionUUID->"1c3dfe72-f4b7-4b46-bdea-90f451dc8c02"],
+Cell[1845354, 35967, 59699, 1089, 302, "Output",ExpressionUUID->"f5333479-6931-4502-b845-cd508941477a"],
+Cell[1905056, 37058, 918, 13, 43, "Output",ExpressionUUID->"9ad24993-5b7b-4465-802d-2a47042f46cb"],
+Cell[1905977, 37073, 918, 13, 43, "Output",ExpressionUUID->"1d5a99fd-9475-422b-a9f0-394bac95fdab"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1906271, 37108, 946, 27, 81, "Input",ExpressionUUID->"f10d1863-ae29-4245-b2cc-c27e2d8054ef"],
-Cell[1907220, 37137, 647, 9, 43, "Output",ExpressionUUID->"28e231a7-cf7e-4a5e-a841-c3d59856e2e0"]
+Cell[1906932, 37091, 1105, 29, 88, "Input",ExpressionUUID->"72854a93-67b7-43bb-8cef-6f73aa178bc6"],
+Cell[1908040, 37122, 785, 11, 43, "Output",ExpressionUUID->"3f3b05c3-b50c-4a1a-b49d-9ecf3f8ebba5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1908862, 37138, 946, 27, 81, "Input",ExpressionUUID->"f10d1863-ae29-4245-b2cc-c27e2d8054ef"],
+Cell[1909811, 37167, 647, 9, 43, "Output",ExpressionUUID->"28e231a7-cf7e-4a5e-a841-c3d59856e2e0"]
 }, Open  ]]
 }
 ]

@@ -37,7 +37,7 @@ void O4z(Point * data, double) {
 }
 
 void O4c(Point* data, double sim) {
-	data[1].z = 0.1 * data[0].x * (0.85 + sim * 0.15); //Underestimate model to avoid overshoot
+	data[1].z = 0.1 * data[0].x * (0.85 + sim * 0.15);
 	data[2].z = 0.1 * data[1].x;
 	data[3].z = 0.1 * data[2].x;
 	data[4].z = 0.1 * data[3].x;
