@@ -7,7 +7,6 @@ constexpr auto xMidConv = 1.0;
 constexpr auto xIntConv = 1.0;
 constexpr auto midConv = 0.5;
 constexpr auto dConv = 0.06;
-constexpr auto d1Min = 0.0;
 constexpr auto I1 = size_t(1);
 constexpr auto min(double a, double b) { return a < b ? a : b; }
 constexpr auto max(double a, double b) { return a > b ? a : b; }
@@ -104,8 +103,6 @@ void Correct(Point * data) {
 			d *= mod;
 			d = min(max(d, 1.0), 1.0 * 1000);
 			d -= r;
-			if (r == 1)
-				d = max(d, d1Min);
 			d /= pieces;
 			for (size_t s = 0; s < pieces; ++s)
 				data[(sLeft + s) * size].a = d;
