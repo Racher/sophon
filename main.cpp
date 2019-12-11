@@ -59,7 +59,7 @@ struct Sim
 		, target(target)
 	{
 		strcpy_s(this->filename, filename);
-		strcat_s(this->filename, ".binary64");
+		strcat_s(this->filename, ".doubles");
 		sims.push_back(std::async(std::move(*this)));
 	}
 
