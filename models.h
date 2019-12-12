@@ -105,3 +105,21 @@ void Rocket(Point * data, double) {
 	data[4].z = t * 0.16 * data[3].x;
 	data[5].z = 1;
 }
+
+void DCr(Point* data, double) {
+	double di = -data[2].x * 2000 - data[1].x * 200 + data[0].x * 2000;
+	double dw = -data[2].x * 0.08 + data[1].x * 4;
+	constexpr double tRef = 0.001;
+	data[1].z = tRef * di;
+	data[2].z = tRef * dw;
+	data[3].z = 1;
+}
+
+void DCl(Point* data, double) {
+	double di = -data[2].x * 2000 - data[1].x * 200 + data[0].x * 2000;
+	double dw = -data[2].x * 0.08 + data[1].x * 4 - 3;
+	constexpr double tRef = 0.0001;
+	data[1].z = tRef * di;
+	data[2].z = tRef * dw;
+	data[3].z = 1;
+}

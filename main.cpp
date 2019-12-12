@@ -150,6 +150,8 @@ int main() {
 	Sim<DCpp, 2, 5> ("DCpp", 220, {}, 0.75);
 	Sim<Servo, 3>("Servo", 56, {}, 1);
 	Sim<Rocket, 4, 6, false>("Rocket", 30, {}, 1);
+	Sim<DCr, 2>("DCr", 100, {}, 0.75);
+	Sim<DCl, 2>("DCl", 100, {0.015, 0.75}, 0.75);
 
 	for (auto& sim : sims)
 		sim.get();
